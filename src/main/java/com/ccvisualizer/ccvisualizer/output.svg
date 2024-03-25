@@ -151,7 +151,7 @@
             </g>
            </g>
           </svg> Max Rating</td>
-         <td id="max-r" style="color: #684273">1831</td>
+         <td id="max-r" style="color: #684273">1830</td>
         </tr>
         <tr style="animation-delay: 300ms">
          <td style="color:#58a6ff">
@@ -167,7 +167,7 @@
             </path>
            </g>
           </svg> Country Rank</td>
-         <td id="c-rank" style="color:#58a6ff">4095</td>
+         <td id="c-rank" style="color:#58a6ff">4042</td>
         </tr>
         <tr style="animation-delay: 450ms">
          <td style="color:#58a6ff">
@@ -183,7 +183,7 @@
             </path>
            </g>
           </svg> Global Rank</td>
-         <td id="g-rank" style="color:#58a6ff">5178</td>
+         <td id="g-rank" style="color:#58a6ff">5114</td>
         </tr>
         <tr style="animation-delay: 600ms">
          <td style="color:#58a6ff">
